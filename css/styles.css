@@ -1,0 +1,27 @@
+  body {
+    background-color: #fbe3b9;
+  }
+
+  hr {
+
+    border-style: dotted none none;
+    border-width: 4px;
+    border-color: grey;
+    height: 0;
+    width:15%;
+  }
+  h1{
+    color: #2d334a;
+  }
+  h3{
+    color: #0c9463;
+  }
+  img:hover {height:175px}
+/**********class selector***********/
+/*
+use .classname {  ;}
+*/
+
+/**********ID selector***********/
+#topheading {color:blue;}
+#headshot{border-radius: 50%}
